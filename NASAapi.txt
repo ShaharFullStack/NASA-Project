@@ -1,0 +1,19 @@
+NASA all events URL = https://eonet.gsfc.nasa.gov/api/v2.1/events
+Last 5 Events = "https://eonet.gsfc.nasa.gov/api/v3/events/geojson?limit=5"
+NASA by date = "https://eonet.gsfc.nasa.gov/api/v3/events?start={since}&end={until}"
+api key = 4jj0AC1S0v4J0GRXtka88NKJ102ojNlrcTRatHzi
+api key = AW4hXnRmahY72jSUGJYq0nzAFF62M4BF2oeScWLN
+
+-=-=-BRANCHES-=-=-
+/project-root
+├── build
+│   ├── css
+│   │   └── style.css
+│   ├── main.js
+│   └── services
+│       └── nasaService.js
+├── src
+│   ├── main.ts
+│   └── services
+│       └── nasaService.ts
+└── index.html
